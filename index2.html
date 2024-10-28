@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>CSV 数据柱状图</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+    <h1>CSV 数据柱状图</h1>
+    <canvas id="barChart" width="400" height="200"></canvas>
+
+    <script>
+        // 使用 PapaParse 解析 CSV 文件
+        Papa.parse('GAMER.csv', {
+            download: true,
+            header: true,
+            complete: function(results) {
+                // 解析数据
+                const labels = [];
+                const dataValues = [];
+
+                results.data.forEach(row => {
+                    labels.push(row['Name']);      // 将每一行的 Name 添加到标签中
+                    dataValues.push(parseFloat(row['Value'])); // 将每一行的 Value 添加到数据中
+                });
+
+                // 绘制柱状图
+                const ctx = document.getElementById('barChart').getContext('2d');
+                const barChart = new Chart(ctx, {
+                    type: 'bar', // 图表类型：柱状图
+                    data: {
+                        labels: labels, // 横坐标
+                        datasets: [{
+                            label: 'Values',
+                            data: dataValues, // 纵坐标数据
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)', // 背景颜色
+                            borderColor: 'rgba(75, 192, 192, 1)',       // 边框颜色
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true // y 轴从 0 开始
+                            }
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
