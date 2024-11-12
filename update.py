@@ -63,7 +63,7 @@ def main():
     parser = argparse.ArgumentParser(description="管理CSV文件中的条目")
     parser.add_argument("--file", type=str, default="GAMER.csv", help="CSV文件路径，默认为GAMER.csv")
     parser.add_argument("--update", type=str, help="要更新的条目名称")
-    parser.add_argument("--field", type=str, choices=["名称", "中译名[~ for empty]", "年份", "平台", "推荐指数", "添加时间"], help="要更新的字段名称")
+    parser.add_argument("--field", type=str, choices=["名称", "中译名", "年份", "平台", "推荐指数", "添加时间"], help="要更新的字段名称")
     parser.add_argument("--value", type=str, help="更新的字段值")
     parser.add_argument("--add", nargs=5, metavar=("名称", "中译名[~ for empty]", "年份", "平台", "推荐指数"), help="添加条目", )
     parser.add_argument("--delete", type=str, help="要删除的条目名称")
