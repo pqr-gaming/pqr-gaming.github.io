@@ -61,7 +61,7 @@ def delete_entry(file_path, name):
 # 主函数，解析命令行参数
 def main():
     parser = argparse.ArgumentParser(description="管理CSV文件中的条目")
-    parser.add_argument("--file", type=str, default="GAMER.csv", help="CSV文件路径，默认为GAMER.csv")
+    parser.add_argument("--file", type=str, default="PGDB.csv", help="CSV文件路径，默认为PGDB.csv")
     parser.add_argument("--update", type=str, help="要更新的条目名称")
     parser.add_argument("--field", type=str, choices=["名称", "中译名", "年份", "平台", "推荐指数", "添加时间"], help="要更新的字段名称")
     parser.add_argument("--value", type=str, help="更新的字段值")
