@@ -1,0 +1,186 @@
+# Lain visual references
+
+The new page uses the existing `PGDB.csv`, DataTables behavior, and cover naming convention. The Lain page is now the default `index.html`; the previous homepage is preserved as `index-classic.html`. `index-lain.html` remains available as an alternate entry.
+
+## Image attribution
+
+- `lain-dress.gif`: https://fauux.neocities.org/LainDressSlow.gif — the Lain animation displayed on https://fauux.neocities.org/wind.
+- `lain-dress-still.png`: first frame of the same GIF, used by static mode and the reduced-motion preference.
+- The source attribution is retained in this file; the visible footer credit was removed at the user's request. Original artwork remains the property of its respective creators; no ownership or license is claimed here.
+- The sun, wires, background texture, and scanlines are implemented locally in CSS/SVG.
+
+## Reference review · 2026-09-05
+
+Followed the image-link chain from wind through unbound, then the publicly linked site directory. Inspected page HTML/CSS and the main visual assets in contact sheets. The reference browser's rendering interface timed out, so this was not a full browser animation review of every page. External social, audio, download links and login submission were outside the visual review.
+
+Style: near-black backgrounds, dusty pink and parchment tones, pixel dithering, isolated figures, repeated textures, and sparse typography. The database keeps readable text, cover previews, search, four column filters, sortable columns, and all entries visible. Includes mobile horizontal scrolling and load/empty feedback. Reset and static-mode buttons were removed at the user's request; reduced-motion preferences are still honored automatically.
+
+## Reviewed page addresses
+
+- https://fauux.neocities.org/wind
+- https://fauux.neocities.org/invlain.html
+- https://fauux.neocities.org/lovelain.html
+- https://fauux.neocities.org/terror.html
+- https://fauux.neocities.org/hidden.html
+- https://fauux.neocities.org/space.html
+- https://fauux.neocities.org/headless.html
+- https://fauux.neocities.org/connect.html
+- https://fauux.neocities.org/pattern.html
+- https://fauux.neocities.org/spirit.html
+- https://fauux.neocities.org/noise.html
+- https://fauux.neocities.org/dmt.html
+- https://fauux.neocities.org/religion.html
+- https://fauux.neocities.org/horror.html
+- https://fauux.neocities.org/rain.html
+- https://fauux.neocities.org/brazil.html
+- https://fauux.neocities.org/happiness.html
+- https://fauux.neocities.org/accela.html
+- https://fauux.neocities.org/escapism.html
+- https://fauux.neocities.org/column.html
+- https://fauux.neocities.org/acid.html
+- https://fauux.neocities.org/television.html
+- https://fauux.neocities.org/watchful.html
+- https://fauux.neocities.org/misconduct.html
+- https://fauux.neocities.org/ether.html
+- https://fauux.neocities.org/computerdream.html
+- https://fauux.neocities.org/yearning.html
+- https://fauux.neocities.org/torment.html
+- https://fauux.neocities.org/sleep.html
+- https://fauux.neocities.org/identity.html
+- https://fauux.neocities.org/transparent.html
+- https://fauux.neocities.org/collective.html
+- https://fauux.neocities.org/consciousness.html
+- https://fauux.neocities.org/psyche.html
+- https://fauux.neocities.org/god.html
+- https://fauux.neocities.org/railroad.html
+- https://fauux.neocities.org/consistent.html
+- https://fauux.neocities.org/enlightenment.html
+- https://fauux.neocities.org/frame.html
+- https://fauux.neocities.org/storm.html
+- https://fauux.neocities.org/daze.html
+- https://fauux.neocities.org/line.html
+- https://fauux.neocities.org/anguish.html
+- https://fauux.neocities.org/uneak.html
+- https://fauux.neocities.org/culmination.html
+- https://fauux.neocities.org/ongoing.html
+- https://fauux.neocities.org/radiance.html
+- https://fauux.neocities.org/forgiveness.html
+- https://fauux.neocities.org/virtuous.html
+- https://fauux.neocities.org/indulgence.html
+- https://fauux.neocities.org/hivemind.html
+- https://fauux.neocities.org/liquid.html
+- https://fauux.neocities.org/breath.html
+- https://fauux.neocities.org/phantom.html
+- https://fauux.neocities.org/obscure.html
+- https://fauux.neocities.org/haze.html
+- https://fauux.neocities.org/ego.html
+- https://fauux.neocities.org/reminiscence.html
+- https://fauux.neocities.org/glimmer.html
+- https://fauux.neocities.org/eyes.html
+- https://fauux.neocities.org/overcast.html
+- https://fauux.neocities.org/thunder.html
+- https://fauux.neocities.org/transform.html
+- https://fauux.neocities.org/monitor.html
+- https://fauux.neocities.org/crowd.html
+- https://fauux.neocities.org/remembrance.html
+- https://fauux.neocities.org/vivid.html
+- https://fauux.neocities.org/neglectful.html
+- https://fauux.neocities.org/aggravate.html
+- https://fauux.neocities.org/wiredfriend.html
+- https://fauux.neocities.org/broadcast.html
+- https://fauux.neocities.org/combine.html
+- https://fauux.neocities.org/smog.html
+- https://fauux.neocities.org/accelerate.html
+- https://fauux.neocities.org/layer.html
+- https://fauux.neocities.org/ritual.html
+- https://fauux.neocities.org/rest.html
+- https://fauux.neocities.org/unbound.html
+- https://fauux.neocities.org/login.html
+- https://fauux.neocities.org/help.html
+- https://fauux.neocities.org/
+- https://fauux.neocities.org/AboutMe.html
+- https://fauux.neocities.org/tracklist.html
+- https://fauux.neocities.org/unorgz.html
+- https://fauux.neocities.org/godisnoise.html
+- https://fauux.neocities.org/Love
+- https://fauux.neocities.org/polls
+- https://fauux.neocities.org/2021.html
+- https://fauux.neocities.org/statue/statue.html
+- https://fauux.neocities.org/statue/statue2.html
+- https://fauux.neocities.org/statue/statue3.html
+- https://fauux.neocities.org/statue/statue4.html
+- https://fauux.neocities.org/statue/statue5.html
+- https://fauux.neocities.org/statue/statue6.html
+- https://fauux.neocities.org/statue/statue7.html
+- https://fauux.neocities.org/statue/statue8.html
+- https://fauux.neocities.org/2020.html
+- https://fauux.neocities.org/Love.html
+- https://fauux.neocities.org/Search.html
+- https://fauux.neocities.org/access.html
+- https://fauux.neocities.org/ascii.html
+- https://fauux.neocities.org/at.html
+- https://fauux.neocities.org/aurora.html
+- https://fauux.neocities.org/ava.html
+- https://fauux.neocities.org/caps.html
+- https://fauux.neocities.org/cease.html
+- https://fauux.neocities.org/centipede.html
+- https://fauux.neocities.org/change.html
+- https://fauux.neocities.org/chisa.html
+- https://fauux.neocities.org/coastline.html
+- https://fauux.neocities.org/contact.html
+- https://fauux.neocities.org/contemplation.html
+- https://fauux.neocities.org/data.html
+- https://fauux.neocities.org/deity.html
+- https://fauux.neocities.org/distance.html
+- https://fauux.neocities.org/divinity.html
+- https://fauux.neocities.org/downloads.html
+- https://fauux.neocities.org/endangered.html
+- https://fauux.neocities.org/endless.html
+- https://fauux.neocities.org/eternity.html
+- https://fauux.neocities.org/faction.html
+- https://fauux.neocities.org/fall.html
+- https://fauux.neocities.org/flashback.html
+- https://fauux.neocities.org/glitch/faceg.html
+- https://fauux.neocities.org/glitch/faceh.html
+- https://fauux.neocities.org/glitch/ggg.html
+- https://fauux.neocities.org/glitch/hhh.html
+- https://fauux.neocities.org/glitch/notfound — unavailable: HTTP Error 404: Not Found
+- https://fauux.neocities.org/glitch/saito.html
+- https://fauux.neocities.org/glitch/various.html
+- https://fauux.neocities.org/grid.html
+- https://fauux.neocities.org/herethen.html
+- https://fauux.neocities.org/hosma.html — unavailable: HTTP Error 404: Not Found
+- https://fauux.neocities.org/idol.html
+- https://fauux.neocities.org/index.html
+- https://fauux.neocities.org/kuro.html
+- https://fauux.neocities.org/lain.html
+- https://fauux.neocities.org/lily.html
+- https://fauux.neocities.org/lily/apple.html
+- https://fauux.neocities.org/lily2.html
+- https://fauux.neocities.org/lily3.html
+- https://fauux.neocities.org/melt.html
+- https://fauux.neocities.org/mine.html
+- https://fauux.neocities.org/motion.html
+- https://fauux.neocities.org/not_found.html
+- https://fauux.neocities.org/oldlore.html
+- https://fauux.neocities.org/onenight.html — unavailable: HTTP Error 404: Not Found
+- https://fauux.neocities.org/peaceful.html
+- https://fauux.neocities.org/portrait.html
+- https://fauux.neocities.org/rain.htm
+- https://fauux.neocities.org/rays.html
+- https://fauux.neocities.org/sinner.html
+- https://fauux.neocities.org/statue/statue10.html
+- https://fauux.neocities.org/statue/statue11.html
+- https://fauux.neocities.org/statue/statue12.html
+- https://fauux.neocities.org/statue/statue9.html
+- https://fauux.neocities.org/sunset.html
+- https://fauux.neocities.org/test.html
+- https://fauux.neocities.org/thoughts.html
+- https://fauux.neocities.org/time.html
+- https://fauux.neocities.org/trashlines.html
+- https://fauux.neocities.org/urgent.html
+- https://fauux.neocities.org/vein.html
+- https://fauux.neocities.org/visible.html
+- https://fauux.neocities.org/wash.html
+- https://fauux.neocities.org/wind.html
+- https://fauux.neocities.org/yui.html
